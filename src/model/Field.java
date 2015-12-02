@@ -10,14 +10,4 @@ public class Field {
         return 0;
     }
 
-    @objid ("959166ba-8de4-46e1-b570-7c1e66fc8630")
-    public void setFigure(Point point, Figure figure) {
-    }
-
-    @objid ("d1375d98-052c-4081-bcb1-170c82c4aebd")
-    public Figure getfigure(Point point) {
-        // TODO Auto-generated return
-        return null;
-    }
-
 }

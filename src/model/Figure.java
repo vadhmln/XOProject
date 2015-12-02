@@ -2,6 +2,8 @@ package model;
 
 import com.modeliosoft.modelio.javadesigner.annotations.objid;
 
-@objid ("7b8165f5-b691-4a0a-9eb0-39546995cc02")
-public class Figure {
+@objid ("0e1c5e7a-a961-414f-9c83-a3b3eb1d3bab")
+public enum Figure {
+    X,
+    O;
 }
