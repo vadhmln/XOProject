@@ -7,7 +7,7 @@ public class Player {
     @objid ("8c1fed0d-0448-456a-9f81-54bcdb52a85c")
     private final String name;
 
-    @objid ("a4644615-7911-438b-8d9b-1242ae2a8225")
+    @objid ("75f68d2f-7238-4592-a843-3c835ba832db")
     private final Figure figure;
 
     @objid ("d7cf83dd-4db3-4e78-af13-57bb9b8de193")
